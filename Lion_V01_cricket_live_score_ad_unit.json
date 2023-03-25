@@ -1,0 +1,21 @@
+{
+  "error": false,
+  "isNewApp":false,
+  "app_pkg": "com.cll.dynamicspot.dynamic.island.dynamicisland.dynamicedge",
+   "fbBannr": "YOUR_PLACEMENT_ID",
+  "fbInter": "YOUR_PLACEMENT_ID",
+  "fbNative": "YOUR_PLACEMENT_ID",
+  "fbNativeBnnr": "YOUR_PLACEMENT_ID",
+ "AdmobBannr": "/6499/example/banner",
+  "AdmobInter": "/6499/example/interstitial",
+  "AdmobInterSplash":"/6499/example/interstitial",
+  "AdmobNative": "/6499/example/native",
+  "AdmobOpenAds": "/6499/example/app-open",
+  "admob_pub_id": "pub-7144040569254180",
+  "admob_app_id": "ca-app-pub-7144040569254180~2169831712",
+  "adType": "admob",
+  "loadMore": false,
+  "streamUrl":"https://mhdtvworld.me/live/live-cricket-tv/",
+  "adStatus": "admob",
+  "adMobTime":30
+}
